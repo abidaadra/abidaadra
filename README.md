@@ -2,6 +2,7 @@
 ### I'm a Full-Stack Developer
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidaadra&hide=javascript,css,scss,html&theme=tokyonight)
+ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon
 
 
 <!--
