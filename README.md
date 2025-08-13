@@ -1,5 +1,5 @@
 ## Abida Adra
-### I'm a Full-Stack Developer
+### Senior IT Manager
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidaadra&hide=javascript,css,scss,html&theme=neon)
  ![](https://github-readme-stats.vercel.app/api?username=abidaadra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
