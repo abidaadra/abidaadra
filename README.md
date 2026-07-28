@@ -1,9 +1,6 @@
 ## Abida Adra
 ### IT Professional
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidaadra&hide=javascript,css,scss,html&theme=neon)
- ![](https://github-readme-stats.vercel.app/api?username=abidaadra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
