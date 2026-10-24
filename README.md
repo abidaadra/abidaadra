@@ -28,6 +28,11 @@
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="net" width="40" height="40"/>
 </p>
 
+<h3 align="left">Links:</h3>
+<p align="left">
+<a href="https://lb.linkedin.com/in/abida-adra" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
 
 <!--
 comment here
